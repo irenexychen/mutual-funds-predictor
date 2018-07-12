@@ -7,11 +7,9 @@
 
 Personae is a repo that implements papers proposed methods in Deep Reinforcement Learning & Supervised Learning and applies them to Financial Market.
 
-Now Personae includes 4 RL & 3 SL implements and a simulate Financial Market supporting Stock and Future. (Short Sale is still implementing)
+Based on Ceruleanacg's repo Personae's framework, I've personalized it to support TD's mutual funds, which I am currently investing in. Currently retraining it to more accurately predict my funds of interest. As of July 10th, 2018, I've earned $378 off mutual funds! :)
 
-More RL & SL methods are updating!
-
-# Contents
+# Implemented Models (by Ceruleanacg)
 
 + [Deep Deterministic Policy Gradient (DDPG)](algorithm/RL/DDPG.py)   
 Implement of DDPG with TensorFlow.
@@ -24,7 +22,6 @@ Implement of Double-DQN with TensorFlow.
 + [Dueling-DQN](algorithm/RL/DuelingDQN.py)     
 Implement of Dueling-DQN with TensorFlow.    
     > arXiv:1511.06581: [Dueling Network Architectures for Deep Reinforcement Learning](https://arxiv.org/abs/1511.06581)     
-
 + [Policy Gradient](algorithm/RL/PolicyGradient.py)   
 Implement of Policy Gradient with TensorFlow.
     > NIPS. Vol. 99. 1999: [Policy gradient methods for reinforcement learning with function approximation](https://papers.nips.cc/paper/1713-policy-gradient-methods-for-reinforcement-learning-with-function-approximation.pdf)
