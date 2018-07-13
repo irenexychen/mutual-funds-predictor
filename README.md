@@ -7,7 +7,7 @@
 
 Personae is a repo that implements papers proposed methods in Deep Reinforcement Learning & Supervised Learning and applies them to simulate future financial trends. 
 
-Based on Ceruleanacg's repo Personae's framework, I've personalized it to support TD's mutual funds, which I am currently investing in. Currently retraining it to more accurately predict my funds of interest. As of July 10th, 2018, I've earned $378 off mutual funds! :)
+Based on Ceruleanacg's repo Personae's framework, I've personalized it to support TD's mutual funds, which I am currently investing in. Currently retraining it to more accurately predict my funds of interest. As of July 13th, 2018, I've earned $454 off mutual funds! :)
 
 # Implemented Models (by Ceruleanacg)
 
